@@ -1,0 +1,11 @@
+conditionals - logic
+loops - menu system 
+dictionary -- to store data
+
+crud project
+
+Teacher:
+1- add student
+2- view all students
+3- check results
+4- exit
